@@ -39,7 +39,7 @@ This software is released under the **GNU General Public License v3**.
 
 ### Icon Credits
 * **File:** `magnet-grabber-classic-red-white-horseshoe-magnet-indigo-background.svg`
-    * **Copyright:** Copyright (C) 2026 pwshAgyjkcrg761. All rights reserved.
+    * **License:** Copyright (C) 2026 pwshAgyjkcrg761. All rights reserved.
 * **File:** `icon-wipe-all-logs-and-clipboard-skull-crossbones.svg`
     * **Asset:** Pirate Flag
     * **Source:** <a href="https://www.svgrepo.com/svg/407213/pirate-flag" target="_blank">https://www.svgrepo.com/svg/407213/pirate-flag</a>
