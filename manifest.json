@@ -1,8 +1,9 @@
 {
   "manifest_version": 3,
-  "name": "Magnet Grabber v2026.07.01__10.36.12",
+  "name": "Magnet Grabber v2026.07.01__14.21.56",
     "description": "A privacy-focused magnet link utility. Stealthily identifies and logs links while preventing website fingerprinting. Features formatted exports for LibreOffice and one-click data/clipboard purging.",
-  "version": "2026.7.1.38172",
+  "version": "2026.7.1.51716",
+  "privacy_policy_url": "https://codeberg.org/pwshagyjkcrg761/magnet-grabber",
   "permissions": [
     "clipboardWrite",
     "activeTab",
@@ -32,7 +33,12 @@
   },
   "browser_specific_settings": {
     "gecko": {
-      "id": "magnetgrabber@local.addon"
+      "id": "magnet-grabber@pwshagyjkcrg761.codeberg.org",
+      "data_collection_permissions": {
+        "required": [
+          "none"
+        ]
+      }
     }
   }
 }
