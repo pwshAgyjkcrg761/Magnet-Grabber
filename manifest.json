@@ -1,0 +1,38 @@
+{
+  "manifest_version": 3,
+  "name": "Magnet Grabber v2026.07.01__10.36.12",
+    "description": "A privacy-focused magnet link utility. Stealthily identifies and logs links while preventing website fingerprinting. Features formatted exports for LibreOffice and one-click data/clipboard purging.",
+  "version": "2026.7.1.38172",
+  "permissions": [
+    "clipboardWrite",
+    "activeTab",
+    "storage",
+    "downloads"
+  ],
+  "background": {
+    "scripts": ["background.js"]
+  },
+  "action": {
+    "default_icon": "icons/icon-toolbar/magnet-grabber-classic-red-white-horseshoe-magnet-indigo-background.svg",
+	"default_popup": "popup.html",
+    "default_title": "Magnet Grabber Settings"
+  },
+  "content_scripts": [
+    {
+      "matches": ["<all_urls>"],
+      "js": ["content.js"],
+      "run_at": "document_end"
+    }
+  ],
+  "icons": {
+    "32": "icons/icon-toolbar/magnet-grabber-classic-red-white-horseshoe-magnet-indigo-background.svg",
+    "48": "icons/icon-toolbar/magnet-grabber-classic-red-white-horseshoe-magnet-indigo-background.svg",
+    "96": "icons/icon-toolbar/magnet-grabber-classic-red-white-horseshoe-magnet-indigo-background.svg",
+    "128": "icons/icon-toolbar/magnet-grabber-classic-red-white-horseshoe-magnet-indigo-background.svg"
+  },
+  "browser_specific_settings": {
+    "gecko": {
+      "id": "magnetgrabber@local.addon"
+    }
+  }
+}
