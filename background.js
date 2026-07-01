@@ -1,6 +1,6 @@
 // ==============================================================================
 // SCRIPT: background.js for Magnet Grabber™
-// VERSION: 2026.07.01__10.36.12
+// VERSION: 2026.07.01__14.21.56
 // TARGET: TOR Browser 15.0.17 (based on Mozilla Firefox 140.12.0esr)
 //
 // Copyright (C) 2026 pwshAgyjkcrg761
