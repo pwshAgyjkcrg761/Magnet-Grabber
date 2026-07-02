@@ -3,7 +3,6 @@
   "name": "Magnet Grabber UNSIGNED OLDER VERSION TEST",
     "description": "This is an older version of Magnet Grabber used for testing updates. Check for updates to download the latest release. ---- A privacy-focused magnet link utility. Stealthily identifies and logs links while preventing website fingerprinting. Features formatted exports for LibreOffice and one-click data/clipboard purging.",
   "version": "2026.1.1.1",
-  "privacy_policy_url": "https://codeberg.org/pwshagyjkcrg761/magnet-grabber",
   "permissions": [
     "clipboardWrite",
     "activeTab",
