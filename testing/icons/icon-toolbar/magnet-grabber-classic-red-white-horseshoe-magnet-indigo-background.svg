@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" width="100%" height="100%">
+  <defs>
+    <style>
+      .dark-border { stroke: #121820; stroke-width: 6; stroke-linecap: round; stroke-linejoin: round; }
+      .yellow-bolt { stroke: #ffd600; stroke-width: 5; fill: none; stroke-linecap: round; stroke-linejoin: round; }
+      .bg-indigo { fill: #3f2b96; }
+      .magnet-red { fill: #d32f2f; }
+      .magnet-white { fill: #ffffff; }
+    </style>
+  </defs>
+
+  <rect class="bg-indigo" x="0" y="0" width="128" height="128" />
+
+  <g>
+    <path class="magnet-red dark-border" d="M 32,66 L 32,94 C 32,112 46.5,125 64,125 C 81.5,125 96,112 96,94 L 96,66 L 76,66 L 76,94 C 76,100.5 70.5,106 64,106 C 57.5,106 52,100.5 52,94 L 52,66 Z" />
+    
+    <rect class="magnet-white dark-border" x="32" y="42" width="20" height="24" />
+    
+    <rect class="magnet-white dark-border" x="76" y="42" width="20" height="24" />
+
+    <path class="yellow-bolt" d="M 42,42 L 37,24 L 47,18 L 39,2" />
+    <path class="yellow-bolt" d="M 34,32 L 24,19 L 32,13" />
+
+    <path class="yellow-bolt" d="M 86,42 L 91,24 L 81,18 L 89,2" />
+    <path class="yellow-bolt" d="M 94,32 L 104,19 L 96,13" />
+  </g>
+</svg>
