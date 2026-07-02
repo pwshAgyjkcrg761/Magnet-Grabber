@@ -1,4 +1,4 @@
-# <img src="https://codeberg.org/pwshAgyjkcrg761/Magnet-Grabber/raw/branch/main/icons/icon-toolbar/magnet-grabber-classic-red-white-horseshoe-magnet-indigo-background.svg" width="32" height="32"> MAGNET GRABBER™ <img src="https://codeberg.org/pwshAgyjkcrg761/Magnet-Grabber/raw/branch/main/icons/icon-toolbar/magnet-grabber-classic-red-white-horseshoe-magnet-indigo-background.svg" width="32" height="32">
+# <img src="icons/icon-toolbar/magnet-grabber-classic-red-white-horseshoe-magnet-indigo-background.svg" width="32" height="32"> MAGNET GRABBER™ <img src="icons/icon-toolbar/magnet-grabber-classic-red-white-horseshoe-magnet-indigo-background.svg" width="32" height="32">
 **A privacy-focused magnet link utility designed for stealthy identification and logging.**
 
 ---
