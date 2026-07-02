@@ -1,0 +1,12 @@
+{
+  "addons": {
+    "magnet-grabber@pwshagyjkcrg761.codeberg.org": {
+      "updates": [
+        {
+          "version": "2026.7.1.51716",
+          "update_link": "https://codeberg.org/pwshAgyjkcrg761/Magnet-Grabber/releases/download/2026.07.01__14.21.56/MagnetGrabber-signed-2026.7.1.51716.xpi"
+        }
+      ]
+    }
+  }
+}
