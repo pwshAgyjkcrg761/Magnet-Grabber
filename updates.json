@@ -3,7 +3,7 @@
     "magnet-grabber@pwshagyjkcrg761.codeberg.org": {
       "updates": [
         {
-          "version": "2026.7.1.51716",
+          "version": "2026.7.2.24135",
           "update_link": "https://codeberg.org/pwshAgyjkcrg761/Magnet-Grabber/releases/download/2026.07.02__06.42.15/MagnetGrabber-signed-2026.7.2.24135.xpi",
           "update_hash": "sha256:459A70F3CE774BEC220358799DA3E25695B43050DE86695B5880DCF41F055C68"
         }
