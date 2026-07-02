@@ -1,0 +1,45 @@
+{
+  "manifest_version": 3,
+  "name": "Magnet Grabber UNSIGNED OLDER VERSION TEST",
+    "description": "This is an older version of Magnet Grabber used for testing updates. Check for updates to download the latest release. ---- A privacy-focused magnet link utility. Stealthily identifies and logs links while preventing website fingerprinting. Features formatted exports for LibreOffice and one-click data/clipboard purging.",
+  "version": "2026.1.1.1",
+  "privacy_policy_url": "https://codeberg.org/pwshagyjkcrg761/magnet-grabber",
+  "permissions": [
+    "clipboardWrite",
+    "activeTab",
+    "storage",
+    "downloads"
+  ],
+  "background": {
+    "scripts": ["background.js"]
+  },
+  "action": {
+    "default_icon": "icons/icon-toolbar/magnet-grabber-classic-red-white-horseshoe-magnet-indigo-background.svg",
+	"default_popup": "popup.html",
+    "default_title": "Magnet Grabber Settings"
+  },
+  "content_scripts": [
+    {
+      "matches": ["<all_urls>"],
+      "js": ["content.js"],
+      "run_at": "document_end"
+    }
+  ],
+  "icons": {
+    "32": "icons/icon-toolbar/magnet-grabber-classic-red-white-horseshoe-magnet-indigo-background.svg",
+    "48": "icons/icon-toolbar/magnet-grabber-classic-red-white-horseshoe-magnet-indigo-background.svg",
+    "96": "icons/icon-toolbar/magnet-grabber-classic-red-white-horseshoe-magnet-indigo-background.svg",
+    "128": "icons/icon-toolbar/magnet-grabber-classic-red-white-horseshoe-magnet-indigo-background.svg"
+  },
+  "browser_specific_settings": {
+    "gecko": {
+      "id": "magnet-grabber@pwshagyjkcrg761.codeberg.org",
+	  "update_url": "https://codeberg.org/pwshAgyjkcrg761/Magnet-Grabber/raw/branch/main/updates.json",
+      "data_collection_permissions": {
+        "required": [
+          "none"
+        ]
+      }
+    }
+  }
+}
