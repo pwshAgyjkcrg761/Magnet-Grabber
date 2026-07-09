@@ -43,7 +43,7 @@ This software is released under the **GNU General Public License v3**.
 * **File:** `icon-wipe-all-logs-and-clipboard-skull-crossbones.svg`
     * **Asset:** Pirate Flag
     * **Source:** <a href="https://www.svgrepo.com/svg/407213/pirate-flag" target="_blank">https://www.svgrepo.com/svg/407213/pirate-flag</a>
-    * **License:** <a href="https://opensource.org/licenses/MIT" target="_blank">MIT License</a>
+    * **License:** <a href="icons/icon-wipe/LICENSE" target="_blank">MIT License</a>
 
 ---
 
@@ -59,6 +59,6 @@ This software is released under the **GNU General Public License v3**.
 *This extension is a tool for data management. The author is not responsible for the content of the magnet links captured or any legal implications arising from their use. Always practice standard TOR safety protocols and do not export logs to networked environments.*
 
 ---
-> **Document Control**
-> *This document is up-to-date with the following version of Magnet Grabber™.*
+> **Document Control**<br>
+> *This document is up-to-date with the following version of Magnet Grabber™.*<br>
 > *2026.07.01__14.21.56*
