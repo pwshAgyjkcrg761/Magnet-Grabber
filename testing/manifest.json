@@ -33,7 +33,7 @@
   "browser_specific_settings": {
     "gecko": {
       "id": "magnet-grabber@pwshagyjkcrg761.codeberg.org",
-	  "update_url": "https://codeberg.org/pwshAgyjkcrg761/Magnet-Grabber/raw/branch/main/updates.json",
+	  "update_url": "https://git.disroot.org/pwshAgyjkcrg761/Magnet-Grabber/raw/branch/main/updates.json",
       "data_collection_permissions": {
         "required": [
           "none"
