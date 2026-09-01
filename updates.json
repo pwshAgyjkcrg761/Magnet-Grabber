@@ -4,8 +4,8 @@
       "updates": [
         {
           "version": "2026.7.2.24135",
-          "update_link": "https://codeberg.org/pwshAgyjkcrg761/Magnet-Grabber/releases/download/2026.07.02__06.42.15/MagnetGrabber-signed-2026.7.2.24135.xpi",
-          "update_hash": "sha256:459A70F3CE774BEC220358799DA3E25695B43050DE86695B5880DCF41F055C68"
+          "update_link": "https://codeberg.org/pwshAgyjkcrg761/Magnet-Grabber/releases/download/2026.07.02__06.42.15/MagnetGrabber-unsigned-2026.9.1.45329.xpi",
+          "update_hash": "sha256:97D75DA19E527A7DD4AC031FB01B956EFB2A24DFD6E9456C9923BFA85076E884"
         }
       ]
     }
