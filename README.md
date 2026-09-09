@@ -3,6 +3,9 @@
 
 ---
 
+![Magnet-Grabber Main Interface](images/MagnetGrabber_tor_browser_main.png)
+
+
 ## Overview
 Magnet Grabber™ is a specialized extension built for the **TOR Browser** environment. It provides a non-intrusive way to capture magnet links, page titles, and source URLs. Unlike standard scrapers, it uses a Shadow DOM injection method to prevent website fingerprinting and script-based detection of the extension’s UI.
 
