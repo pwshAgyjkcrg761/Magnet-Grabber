@@ -46,7 +46,7 @@ This software is released under the **GNU General Public License v3**.
 * **File:** `icon-wipe-all-logs-and-clipboard-skull-crossbones.svg`
     * **Asset:** Pirate Flag
     * **Source:** <a href="https://www.svgrepo.com/svg/407213/pirate-flag" target="_blank">https://www.svgrepo.com/svg/407213/pirate-flag</a>
-    * **License:** <a href="/pwshAgyjkcrg761/Magnet-Grabber/src/branch/main/icons/icon-wipe/LICENSE" target="_blank">MIT License</a>
+    * **License:** <a href="https://git.disroot.org/pwshAgyjkcrg761/Magnet-Grabber/src/branch/main/icons/icon-wipe/LICENSE" target="_blank">MIT License</a>
 
 ---
 
