@@ -25,4 +25,4 @@ jobs:
           git fetch disroot --tags --force
           git checkout main
           git reset --hard disroot/main
-          git push origin main --tags --force
+          git push https://x-access-token:${{ secrets.MIRROR_KEY }}@github.com/pwshAgyjkcrg761/Magnet-Grabber.git main --tags --force
