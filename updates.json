@@ -3,9 +3,9 @@
     "magnet-grabber@pwshagyjkcrg761.codeberg.org": {
       "updates": [
         {
-          "version": "2026.9.1.45329",
-          "update_link": "https://git.disroot.org/pwshAgyjkcrg761/Magnet-Grabber/raw/branch/main/releases/latest/MagnetGrabber-unsigned-2026.9.1.45329.xpi",
-          "update_hash": "sha256:97D75DA19E527A7DD4AC031FB01B956EFB2A24DFD6E9456C9923BFA85076E884"
+          "version": "2026.9.1.49298",
+          "update_link": "https://git.disroot.org/pwshAgyjkcrg761/Magnet-Grabber/raw/commit/59c541fbf9557616a8381b09f96480aa65742f2b/releases/latest/MagnetGrabber-v2026.9.1.49298-signed.xpi",
+          "update_hash": "sha256:361F7C9BE182272F304C519FB3CE892B8B067075BA86DBA9D2F9ABC654CE91CE"
         }
       ]
     }
