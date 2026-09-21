@@ -3,6 +3,10 @@
 
 ---
 
+<blockquote>
+  <p><strong>⚠️ WARNING:</strong> Updating from the test xpi no longer works because TOR Browser triggers a bot check on Disroot raw links.</p>
+</blockquote>
+
 ## Purpose
 This directory serves as a QA staging area. It contains intentionally downgraded and unsigned variants of the extension to verify that the `update_url` mechanism correctly identifies, fetches, and validates newer signed releases from the main repository.
 
