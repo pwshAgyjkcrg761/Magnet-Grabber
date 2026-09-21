@@ -1,4 +1,4 @@
-# <img src="https://codeberg.org/pwshAgyjkcrg761/Magnet-Grabber/raw/branch/main/icons/icon-toolbar/magnet-grabber-classic-red-white-horseshoe-magnet-indigo-background.svg" width="32" height="32"> MAGNET GRABBER™ - TESTING HUB <img src="https://codeberg.org/pwshAgyjkcrg761/Magnet-Grabber/raw/branch/main/icons/icon-toolbar/magnet-grabber-classic-red-white-horseshoe-magnet-indigo-background.svg" width="32" height="32">
+# <img src="https://git.disroot.org/pwshAgyjkcrg761/Magnet-Grabber/raw/branch/main/icons/icon-toolbar/magnet-grabber-classic-red-white-horseshoe-magnet-indigo-background.svg" width="32" height="32"> MAGNET GRABBER™ - TESTING HUB <img src="https://git.disroot.org/pwshAgyjkcrg761/Magnet-Grabber/raw/branch/main/icons/icon-toolbar/magnet-grabber-classic-red-white-horseshoe-magnet-indigo-background.svg" width="32" height="32">
 **Sandbox environment for verifying manifest logic and browser-triggered update protocols.**
 
 ---
