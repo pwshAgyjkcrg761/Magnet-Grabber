@@ -64,4 +64,4 @@ This software is released under the **GNU General Public License v3**.
 ---
 > **Document Control**<br>
 > *This document is up-to-date with the following version of Magnet Grabber™.*<br>
-> *2026.07.01__14.21.56*
+> *v2026.09.01__13.41.38*
